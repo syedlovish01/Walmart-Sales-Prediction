@@ -1,4 +1,4 @@
-🛒 Walmart Sales Prediction
+🛒 End-to-End Sales Trend Analysis Pipeline
 
 📌 Objective
 Predict Walmart's weekly sales using historical data and evaluate multiple machine learning models for accuracy.
